@@ -1,25 +1,25 @@
-### Проект: CSBookSwap
+# Project: CSBookSwap
 
-**Обзор:**
+## Overview
 
-CSBookSwap - удобная платформа для обмена и продажи книг в сфере программирования и IT. Здесь вы можете находить интересные издания, делиться своими и обмениваться с другими участниками сообщества.
+CSBookSwap is a user-friendly platform for exchanging and selling books within the programming and IT domain. Discover interesting editions, share your own, and engage in book exchanges with other community members.
 
-**Ключевые особенности:**
+## Key Features
 
-- **Поиск и Обмен:** Простой и эффективный поиск книг, где вы сами решаете, продать или обменять свои экземпляры.
+- **Search and Exchange:** Effortlessly search for books and decide whether to sell or exchange your copies.
 
-- **Уведомления о Новинках:** Оповещения о появлении интересующих вас книг в списке обмена.
+- **New Release Notifications:** Receive timely alerts about the availability of books you are interested in for exchange.
 
-- **Технологический Стек:** Задействованы Java, Spring Boot, PostgreSQL для бэкенда и Angular с TypeScript для современного и интуитивно понятного фронтенда.
+- **Technology Stack:** Utilizing Java, Spring Boot, PostgreSQL for the backend, and Angular with TypeScript for a modern and intuitive frontend.
 
-**Процесс Регистрации и Безопасности:**
+## Registration Process and Data Privacy
 
-- **Простая Регистрация:** Присоединяйтесь к сообществу через электронную почту или используя аккаунты Google/GitHub.
+- **Simple Registration:** Join the community seamlessly through email or by using your Google/GitHub accounts.
 
-- **Безопасность:** Гарантируем защиту ваших данных с применением стандартов безопасности.
+- **User Data Privacy:** CSBookSwap prioritizes your privacy. We do not collect user data and do not share it with any third parties.
 
-**Планы на Будущее:**
+## Future Plans
 
-- **Расширение Функционала:** В планах добавление списка похожих бесплатных электронных книг.
+- **Functionality Expansion:** Our future plans include adding a list of similar free e-books.
 
-Присоединяйтесь к CSBookSwap и обогащайте свою коллекцию литературы по IT!
+Join CSBookSwap and enrich your collection of IT literature!
