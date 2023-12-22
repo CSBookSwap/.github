@@ -1,4 +1,14 @@
-# Project: CSBookSwap
+<div align="center">
+
+![CS Book Swap](https://raw.githubusercontent.com/CSBookSwap/.github/main/org_resources/images/logocon_mini.png)
+
+# CS Book Swap
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/CSBookSwap/.github/blob/main/LICENSE)
+
+---
+
+</div>
 
 ## Overview
 
